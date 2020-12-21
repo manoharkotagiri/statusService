@@ -1,0 +1,590 @@
+{
+  "totalElements": 21578,
+  "totalPages": 432,
+  "numberOfElements": 50,
+  "pageRequest": {
+    "pageNumber": 1,
+    "pageSize": 50,
+    "sortAscending": true
+  },
+  "results": [
+    {
+      "publishedGtin": "00000518600143",
+      "version": 4,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "22301987574112"
+      ],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2020-01-14 19:31:32.032",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "25|This hierarchy already exists with Consumer UPC , but was now submitted with Consumer UPCs: 22371987574115, 22301987574112. If this is a correction please resubmit with a reason code of CONSUMER UPC CORRECTION. Otherwise, this should be submitted as a new hierarchy.||"
+    },
+    {
+      "publishedGtin": "00000518900090",
+      "version": 8,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000518900090"
+      ],
+      "itemHierarchyStatus": "MDM_REJECT",
+      "roleUpdateDateAndTime": "2017-01-25 20:48:55.055",
+      "venusImfNumber": null,
+      "venusReasonCode": "One or more of the classes that you submitted does not match the class that Kroger has for this hierarchy. Please select the correct class and resubmit. 1 ) GTIN : 00000518900090 , VIP Submitted Class : 005 , PID Class : 216"
+    },
+    {
+      "publishedGtin": "00000579000050",
+      "version": 13,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000579000050"
+      ],
+      "itemHierarchyStatus": "VIP_DELETED",
+      "roleUpdateDateAndTime": "2016-02-03 04:16:54.054",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00000579000067",
+      "version": 10,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000579000067"
+      ],
+      "itemHierarchyStatus": "MDM_REJECT",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:15.015",
+      "venusImfNumber": null,
+      "venusReasonCode": "One or more of the classes that you submitted does not match the class that Kroger has for this hierarchy. Please select the correct class and resubmit. 1 ) GTIN : 00000579000067 , VIP Submitted Class : 210 , PID Class : 047"
+    },
+    {
+      "publishedGtin": "00000614149683",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000614149683"
+      ],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2015-11-24 14:16:47.047",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "25"
+    },
+    {
+      "publishedGtin": "00000680000024",
+      "version": 6,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000680000024"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2020-02-06 16:31:11.011",
+      "venusImfNumber": "-1",
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00000774000350",
+      "version": 1,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000774000350"
+      ],
+      "itemHierarchyStatus": "PID_COMPLETE",
+      "roleUpdateDateAndTime": "2015-06-19 14:27:46.046",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00000774000510",
+      "version": 6,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000774000510"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2020-01-14 13:51:11.011",
+      "venusImfNumber": "-1",
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00000856003033",
+      "version": 5,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000856003033"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2016-06-02 09:53:06.006",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00001000008997",
+      "version": 40,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00001000008980"
+      ],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2017-02-13 19:14:02.002",
+      "venusImfNumber": null,
+      "venusReasonCode": "25|VENDOR TO RESUBMIT||"
+    },
+    {
+      "publishedGtin": "00001490073925",
+      "version": 10,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00037000138785"
+      ],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:23.023",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "25"
+    },
+    {
+      "publishedGtin": "00001490497097",
+      "version": 10,
+      "innerPackItemId": "20381519041659",
+      "salesVariantItemIdList": [
+        "00381519041655"
+      ],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:27.027",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "25"
+    },
+    {
+      "publishedGtin": "00001490640776",
+      "version": 13,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00037000401544"
+      ],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:24.024",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "25"
+    },
+    {
+      "publishedGtin": "00002077755111",
+      "version": 3,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00002155510102",
+      "version": 3,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00002155510102"
+      ],
+      "itemHierarchyStatus": "PID_COMPLETE",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00002242239552",
+      "version": 13,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "15898998892286"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2020-01-14 16:26:33.033",
+      "venusImfNumber": "-1",
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00002377755118",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00002840020545",
+      "version": 6,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00002840020545"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2019-06-06 11:33:04.004",
+      "venusImfNumber": "111333",
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00002840020546",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00002840020546"
+      ],
+      "itemHierarchyStatus": "MIKE",
+      "roleUpdateDateAndTime": "2019-04-25 11:09:59.059",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "00|NEW ITEM||"
+    },
+    {
+      "publishedGtin": "00003360004213",
+      "version": 7,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00016000159105"
+      ],
+      "itemHierarchyStatus": "PID_COMPLETE",
+      "roleUpdateDateAndTime": "2017-01-25 20:48:59.059",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00004288749088",
+      "version": 9,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00004288749088"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2016-02-19 04:20:32.032",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005155500092",
+      "version": 13,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155500092"
+      ],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:31.031",
+      "venusImfNumber": null,
+      "venusReasonCode": "36|ITEM WAS NOT REQUESTED|This hierarchy's submission has expired due to inactivity by Kroger,|"
+    },
+    {
+      "publishedGtin": "00005155500177",
+      "version": 13,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155500177"
+      ],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:30.030",
+      "venusImfNumber": null,
+      "venusReasonCode": "36|ITEM WAS NOT REQUESTED|This hierarchy's submission has expired due to inactivity by Kroger,|"
+    },
+    {
+      "publishedGtin": "00005155500184",
+      "version": 12,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:30.030",
+      "venusImfNumber": null,
+      "venusReasonCode": "27|INVALID IMF VERSION RECEIVED|Correct the IMF|"
+    },
+    {
+      "publishedGtin": "00005155500207",
+      "version": 13,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:34.034",
+      "venusImfNumber": null,
+      "venusReasonCode": "36|ITEM WAS NOT REQUESTED|This hierarchy's submission has expired due to inactivity by Kroger,|"
+    },
+    {
+      "publishedGtin": "00005155500245",
+      "version": 8,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:34.034",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "25"
+    },
+    {
+      "publishedGtin": "00005155500252",
+      "version": 13,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:34.034",
+      "venusImfNumber": null,
+      "venusReasonCode": "36|ITEM WAS NOT REQUESTED|This hierarchy's submission has expired due to inactivity by Kroger,|"
+    },
+    {
+      "publishedGtin": "00005155500276",
+      "version": 13,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:38.038",
+      "venusImfNumber": null,
+      "venusReasonCode": "36|ITEM WAS NOT REQUESTED|This hierarchy's submission has expired due to inactivity by Kroger,|"
+    },
+    {
+      "publishedGtin": "00005155500603",
+      "version": 5,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155500603"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2015-10-30 08:57:33.033",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005155503604",
+      "version": 18,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155503604"
+      ],
+      "itemHierarchyStatus": "VIP_DELETED",
+      "roleUpdateDateAndTime": "2016-02-03 04:16:19.019",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005155507350",
+      "version": 14,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155507350"
+      ],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2017-02-16 07:48:33.033",
+      "venusImfNumber": null,
+      "venusReasonCode": "25|VENDOR TO RESUBMIT||"
+    },
+    {
+      "publishedGtin": "00005155510084",
+      "version": 6,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155510084"
+      ],
+      "itemHierarchyStatus": "PID_COMPLETE",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005155522704",
+      "version": 5,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155522704"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2016-02-12 12:41:03.003",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005155522711",
+      "version": 10,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155522711"
+      ],
+      "itemHierarchyStatus": "VIP_REJECT",
+      "roleUpdateDateAndTime": "2017-01-25 20:49:21.021",
+      "venusImfNumber": null,
+      "venusReasonCode": "11|CORPORATE BRAND ITEM ALREADY MEETS THE NEED|Correct the IMF|"
+    },
+    {
+      "publishedGtin": "00005155522728",
+      "version": 6,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155522728"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2015-11-30 15:04:17.017",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005155522735",
+      "version": 5,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155522735"
+      ],
+      "itemHierarchyStatus": "VIP_DELETED",
+      "roleUpdateDateAndTime": "2016-04-01 15:06:47.047",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005155530907",
+      "version": 10,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155530907"
+      ],
+      "itemHierarchyStatus": "MDM_REJECT",
+      "roleUpdateDateAndTime": "2017-01-26 16:34:37.037",
+      "venusImfNumber": null,
+      "venusReasonCode": "The item is not currently active in the Kroger systems and hence cannot be modified. For further clarification please send an email to KrogerProjectMercury@kroger.com"
+    },
+    {
+      "publishedGtin": "00005155530914",
+      "version": 9,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155530914"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2016-04-01 14:57:46.046",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005155542108",
+      "version": 17,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2016-04-27 23:29:19.019",
+      "venusImfNumber": null,
+      "venusReasonCode": "36|ITEM WAS NOT REQUESTED|This hierarchy's submission has expired due to inactivity by Kroger,|"
+    },
+    {
+      "publishedGtin": "00005155599843",
+      "version": 15,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005155599843"
+      ],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2017-02-16 05:03:22.022",
+      "venusImfNumber": null,
+      "venusReasonCode": "25|VENDOR TO RESUBMIT||"
+    },
+    {
+      "publishedGtin": "00005177700029",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005177702016",
+      "version": 1,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00105177702013"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005177702023",
+      "version": 1,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005177702023"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005177702030",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00005177702030"
+      ],
+      "itemHierarchyStatus": "PIM_REJECTED",
+      "roleUpdateDateAndTime": "2018-03-05 15:07:27.027",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "testing reject"
+    },
+    {
+      "publishedGtin": "00005177702559",
+      "version": 1,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00105177702013"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005177702566",
+      "version": 1,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00105177702013"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005210428514",
+      "version": 3,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00305210416383"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00005677755116",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00006577730043",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00008011933478",
+      "version": 16,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00008011933478"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2020-02-14 09:26:27.027",
+      "venusImfNumber": "-1",
+      "venusReasonCode": null
+    }
+  ]
+}

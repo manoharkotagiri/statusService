@@ -1,0 +1,128 @@
+{
+  "totalElements": 21578,
+  "totalPages": 2158,
+  "numberOfElements": 10,
+  "pageRequest": {
+    "pageNumber": 1,
+    "pageSize": 10,
+    "sortAscending": true
+  },
+  "results": [
+    {
+      "publishedGtin": "00000000009992",
+      "version": 1,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "VIP_REVIEW",
+      "roleUpdateDateAndTime": "2019-09-16 11:22:55.055",
+      "venusImfNumber": "-1",
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "0000000004139 ",
+      "version": 3,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "1900-01-01 00:00:00.000",
+      "venusImfNumber": null,
+      "venusReasonCode": "12|DATA INTEGRITY ISSUE WITH SETUP INFORMATION|m|"
+    },
+    {
+      "publishedGtin": "00000001091830",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000001091830"
+      ],
+      "itemHierarchyStatus": "MIKE",
+      "roleUpdateDateAndTime": "2020-01-14 09:08:50.050",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "00|NEW ITEM||"
+    },
+    {
+      "publishedGtin": "00000006156602",
+      "version": 9,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000006156602"
+      ],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2016-03-16 21:18:23.023",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "25"
+    },
+    {
+      "publishedGtin": "00000006158286",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000006158279"
+      ],
+      "itemHierarchyStatus": "CM_REJECTED",
+      "roleUpdateDateAndTime": "2016-03-26 10:52:43.043",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "25"
+    },
+    {
+      "publishedGtin": "00000007130182",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000007130182"
+      ],
+      "itemHierarchyStatus": "MIKE",
+      "roleUpdateDateAndTime": "2019-10-07 16:46:05.005",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "00|NEW ITEM||"
+    },
+    {
+      "publishedGtin": "00000007130199",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000007130199"
+      ],
+      "itemHierarchyStatus": "MIKE",
+      "roleUpdateDateAndTime": "2019-10-07 16:35:04.004",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "00|NEW ITEM||"
+    },
+    {
+      "publishedGtin": "00000007130205",
+      "version": 6,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000007130205"
+      ],
+      "itemHierarchyStatus": "MIKE",
+      "roleUpdateDateAndTime": "2019-10-10 14:50:04.004",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "00|DESCRIPTION CHANGE ONLY, CASE UPC CHANGE||"
+    },
+    {
+      "publishedGtin": "00000008019622",
+      "version": 4,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000008019622"
+      ],
+      "itemHierarchyStatus": "VIP_SYNCHRONIZED",
+      "roleUpdateDateAndTime": "2020-08-16 15:28:22.022",
+      "venusImfNumber": "69408600",
+      "venusReasonCode": null
+    },
+    {
+      "publishedGtin": "00000009786271",
+      "version": 2,
+      "innerPackItemId": null,
+      "salesVariantItemIdList": [
+        "00000009786271"
+      ],
+      "itemHierarchyStatus": "MIKE",
+      "roleUpdateDateAndTime": "2019-10-07 17:26:05.005",
+      "venusImfNumber": "-1",
+      "venusReasonCode": "00|NEW ITEM||"
+    }
+  ]
+}
