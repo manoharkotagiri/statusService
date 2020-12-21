@@ -1,0 +1,15 @@
+{
+  "includeHistory": false,
+  "pageRequest": {
+    "pageNumber": 0,
+    "pageSize": 100,
+    "sortAscending": true
+  },
+  "queries": [
+    {
+      "queryField": "publishedGtin",
+      "queryValue": "3435",
+      "searchCriteria": "like"
+    }
+  ]
+}
